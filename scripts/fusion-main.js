@@ -20,7 +20,7 @@ Hooks.on("init", () => {
         scope: 'world',
         config: true,
         type: String,
-        default: ""
+        default: "systems/ptu/static/images/sprites/"
     });
 
     // OpenAI Key
